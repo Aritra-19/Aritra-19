@@ -3,7 +3,7 @@
 - 💻 Passionate about web development and WordPress
 - 🛠️ Working with PHP, MySQL, JavaScript, HTML/CSS, and Git
 - 🔨 Currently learning WordPress plugin/theme development
-- 📫 How to reach me: [[LinkedIn link]](https://www.linkedin.com/in/aritra-bag2004/) | [Portfolio if available]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aritra-bag2004/) | [Portfolio if available]
 
 ### 🔧 Skills
 PHP | JavaScript | WordPress | HTML | CSS | MySQL | Git
